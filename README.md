@@ -1,6 +1,6 @@
 ﻿# Proyecto-Individual MOVIES
 
- ![](images.jpg)
+ ![](images.jpeg)
 
  ## Indice
 1. [Extraccion, Transformacion, Load](#ETL-(Extraccion,-Transformacion,-Load))
