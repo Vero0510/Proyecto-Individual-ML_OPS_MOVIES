@@ -1,5 +1,7 @@
 ﻿# Proyecto-Individual MOVIES
 
+ ![](images.jpg)
+
  ## Indice
 1. [Extraccion, Transformacion, Load](#ETL-(Extraccion,-Transformacion,-Load))
 2. [EDA (Analisis exploratorio de datos)](#EDA-(Analisis-exploratorio-de-datos))
