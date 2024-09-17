@@ -179,20 +179,20 @@ def Recomendacion_pelicula(pelicula:str):
         # Calcular la similitud de coseno entre peliculas
         peliculas_similares = cosine_similarity(user_item_matrix.T)
 
-        # Encontrar el índice del juego en la matriz
+        # Encontrar el índice de la pelicula en la matriz
         peliculas_index = user_item_matrix.columns.get_loc(pelicula)
         
 
-        # Calcular la similitud de coseno entre el juego deseado y otros juegos
+        # Calcular la similitud de coseno entre la pelicula deseada y otras peliculas
         peliculas_similares = peliculas_similares[peliculas_index] 
 
-        # Crear un DataFrame con juegos similares y sus similitudes
+        # Crear un DataFrame con peliculas similares y sus similitudes
         similar_peliculas = pd.DataFrame({
             'Peliculas': user_item_matrix.columns,
             'Similarity': peliculas_similares
         })
 
-        # Ordenar los juegos por similitud en orden descendente
+        # Ordenar las peliculas por similitud en orden descendente
         top_5_recomendadas = similar_peliculas.sort_values(by='Similarity', ascending=False).head(5)
 
         
