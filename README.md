@@ -15,11 +15,7 @@ Obteniendo los 2 dataset se comenzo desanidando las columnas que eran necesarias
 
 ## EDA (Analisis exploratorio de datos)
 
-Realizamos un análisis exploratorio de datos después de completar la transformación y carga de datos (ETL). En primer lugar, obtuvimos una visión general de los años, examinamos las características de los precios, analizamos los comentarios y detectamos posibles valores duplicados.
-
-Luego, procedimos a eliminar los valores duplicados al comparar múltiples columnas. La decisión de eliminarlos se basó en la observación de que, al hacerlo, no afectaría significativamente la integridad del dataset y calculamos la existencia de los posibles valores atipicos.
-
-Finalmente, representamos gráficamente la distribución del análisis de........................................... a lo largo del tiempo.
+Realizamos un análisis exploratorio de datos después de completar la transformación y carga de datos (ETL). En primer lugar, obtuvimos un histograma con variables numericas (budget, revenue, popularity,vote_average), calculamos los posibles outliers, observamos los valores duplicados, obtuvimos un grafico de correlacion entre la variables, analizamos los distintos tipos de generos, y por ultimo examinamos las tendencias: Cantidad de películas por año, Promedio de presupuesto, ingresos y popularidad por año, Promedio de calificación (vote_average) por año.
 
 ## Modelo de aprendizaje automático
 Desarrolle una función que nos permite seleccionar una pelicula y obtener cinco recomendaciones de peliculas similares a la elegida.
