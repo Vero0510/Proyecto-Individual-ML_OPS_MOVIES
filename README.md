@@ -3,10 +3,11 @@
  ## Indice
 1. [Extraccion, Transformacion, Load](#ETL (Extraccion, Transformacion, Load))
 2. [EDA (Analisis exploratorio de datos)](#EDA (Analisis exploratorio de datos))
-3. [Modelo de aprendizaje automático)](#Modelo_de_aprendizaje_automatico))
-4. [Instalación y Requisitos](#Instalación_y_Requisitos)
-5. [Estructura del Proyecto](#Estructura_del_Proyecto)
-6. [Resultados y Conclusiones](#resultados-y-conclusiones)
+3. [Modelo de aprendizaje automático)](#Modelo_de_aprendizaje_automatico)
+4.  [Aplicacion FastAPI](##Aplicacion_FastAPI)
+5. [Instalación y Requisitos](#Instalación_y_Requisitos)
+6. [Estructura del Proyecto](#Estructura_del_Proyecto)
+7. [Resultados y Conclusiones](#resultados-y-conclusiones)
 
 ## ETL (Extraccion, Transformacion, Load)
 Realice un proyecto basado en un conjunto de datos donde tenia 2 dataset en formato csv.
@@ -23,26 +24,22 @@ Luego, procedimos a eliminar los valores duplicados al comparar múltiples colum
 Finalmente, representamos gráficamente la distribución del análisis de........................................... a lo largo del tiempo.
 
 ## Modelo de aprendizaje automático
-Desarrolle una función que nos permite seleccionar un juego y obtener cinco recomendaciones de juegos similares al elegido
+Desarrolle una función que nos permite seleccionar una pelicula y obtener cinco recomendaciones de peliculas similares a la elegida.
 
-API
-Se ha creado un entorno virtual y se han instalado todas las bibliotecas necesarias para desarrollar una API. Esta API consta de seis funciones que realizan diferentes consultas, además se creo una función donde fue entrenada con Machine Learning que nos proporciona recomendaciones de peliculas en función de la pelicula especificado en la consulta.
+## Aplicacion FastAPI
+Se ha creado un entorno virtual y se han instalado todas las bibliotecas necesarias para desarrollar una API. A traves de FastAPI y Render logramos que la API conste de seis funciones que realizan diferentes consultas, además se creo una función donde fue entrenada con Machine Learning que nos proporciona recomendaciones de peliculas en función de la pelicula especificado en la consulta.
 
 ## Instalación y Requisitos
-**Requisitos:**
+
 - Python 3.9 
 - pandas
 - numpy
 - matplotlib
 - scikit-learn
 - seaborn
+- FastAPI
+- Uvicorn
 
 
-## Estructura del Proyecto
-- `data/`: Contiene los archivos de datos utilizados en el proyecto.
-- `notebooks/`: Incluye los notebooks de Jupyter con el análisis y modelos.
-- `src/`: Código fuente del proyecto, incluyendo scripts y módulos.
-- `reports/`: Guarda los informes y visualizaciones generados.
-- `README.md`: Archivo de documentación del proyecto.
 
 
