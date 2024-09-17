@@ -166,8 +166,8 @@ def get_director(nombre_director):
     }
 
 
-@app.get("/Recomendacion_juego")
-def Recomendacion_juego(pelicula:str):
+@app.get("/Recomendacion_pelicula")
+def Recomendacion_pelicula(pelicula:str):
     
 
         # Filtrar por películas lanzadas desde 2017
