@@ -34,6 +34,7 @@ Se ha creado un entorno virtual y se han instalado todas las bibliotecas necesar
 - FastAPI
 - Uvicorn
 
-Este es el link de la api: https://proyecto-individual-ml-ops-movies.onrender.com
+Este es el link de la api: https://proyecto-individual-ml-ops-movies.onrender.com/docs
+
 
 
