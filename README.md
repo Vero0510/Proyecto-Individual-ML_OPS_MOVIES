@@ -1,5 +1,13 @@
 ﻿# Proyecto-Individual MOVIES
 
+ ## Indice
+1. [Extraccion, Transformacion, Load](#ETL (Extraccion, Transformacion, Load))
+2. [EDA (Analisis exploratorio de datos)](#EDA (Analisis exploratorio de datos))
+3. [Modelo de aprendizaje automático](#Modelo de aprendizaje automático)
+5. [## Instalación y Requisitos](## Instalación y Requisitos)
+6. [Estructura del Proyecto](## Estructura del Proyecto)
+7. [Resultados y Conclusiones](#resultados-y-conclusiones)
+
 ## ETL (Extraccion, Transformacion, Load)
 Realice un proyecto basado en un conjunto de datos donde tenia 2 dataset en formato csv.
 
@@ -19,17 +27,6 @@ Desarrolle una función que nos permite seleccionar un juego y obtener cinco rec
 
 API
 Se ha creado un entorno virtual y se han instalado todas las bibliotecas necesarias para desarrollar una API. Esta API consta de seis funciones que realizan diferentes consultas, además se creo una función donde fue entrenada con Machine Learning que nos proporciona recomendaciones de peliculas en función de la pelicula especificado en la consulta.
-
-## Tabla de contenido
-1. [Introducción](#introducción)
-2. [Instalación y Requisitos](#instalación-y-requisitos)
-3. [Estructura del Proyecto](#estructura-del-proyecto)
-4. [Uso y Ejecución](#uso-y-ejecución)
-5. [Datos y Fuentes](#datos-y-fuentes)
-6. [Metodología](#metodología)
-7. [Resultados y Conclusiones](#resultados-y-conclusiones)
-8. [Contribución y Colaboración](#contribución-y-colaboración)
-9. [Licencia](#licencia)
 
 ## Instalación y Requisitos
 **Requisitos:**
