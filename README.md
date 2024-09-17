@@ -1,4 +1,4 @@
-﻿# Proyecto-Individual-ML_OPS_MOVIES
+﻿# Proyecto-Individual MOVIES
 ETL
 Realice un proyecto basado en un conjunto de datos donde tenia 2 dataset en formato csv.
 
