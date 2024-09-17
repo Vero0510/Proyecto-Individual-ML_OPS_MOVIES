@@ -1,13 +1,11 @@
 ﻿# Proyecto-Individual MOVIES
 
  ## Indice
-1. [Extraccion, Transformacion, Load](#ETL (Extraccion, Transformacion, Load))
-2. [EDA (Analisis exploratorio de datos)](#EDA (Analisis exploratorio de datos))
-3. [Modelo de aprendizaje automático)](#Modelo_de_aprendizaje_automatico)
-4.  [Aplicacion FastAPI](##Aplicacion_FastAPI)
-5. [Instalación y Requisitos](#Instalación_y_Requisitos)
-6. [Estructura del Proyecto](#Estructura_del_Proyecto)
-7. [Resultados y Conclusiones](#resultados-y-conclusiones)
+1. [Extraccion, Transformacion, Load](#ETL-(Extraccion,-Transformacion,-Load))
+2. [EDA (Analisis exploratorio de datos)](#EDA-(Analisis-exploratorio-de-datos))
+3. [Modelo de aprendizaje automático)](#Modelo-de-aprendizaje-automatico)
+4.  [Aplicacion FastAPI](##Aplicacion-FastAPI)
+5. [Instalación y Requisitos](#Instalación-y-Requisitos)
 
 ## ETL (Extraccion, Transformacion, Load)
 Realice un proyecto basado en un conjunto de datos donde tenia 2 dataset en formato csv.
