@@ -1,6 +1,6 @@
 ﻿# Proyecto-Individual MOVIES
 
- <img src="imagen.jpeg" alt="Descripción de la imagen" width="500" />
+ <img src="imagen.jpeg" alt="Descripción de la imagen" width="800" />
 
  ## Indice
 1. [Extraccion, Transformacion, Load](#ETL-(Extraccion,-Transformacion,-Load))
