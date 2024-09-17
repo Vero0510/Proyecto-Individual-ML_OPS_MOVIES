@@ -3,7 +3,7 @@
  ## Indice
 1. [Extraccion, Transformacion, Load](#ETL-(Extraccion,-Transformacion,-Load))
 2. [EDA (Analisis exploratorio de datos)](#EDA-(Analisis-exploratorio-de-datos))
-3. [Modelo de aprendizaje automático)](#Modelo-de-aprendizaje-automatico)
+3. [Modelo de aprendizaje automático](#Modelo-de-aprendizaje-automatico)
 4.  [Aplicacion FastAPI](#Aplicacion-FastAPI)
 5. [Instalación y Requisitos](#Instalación-y-Requisitos)
 
