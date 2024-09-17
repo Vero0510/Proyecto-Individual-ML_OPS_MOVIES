@@ -4,7 +4,7 @@
 1. [Extraccion, Transformacion, Load](#ETL (Extraccion, Transformacion, Load))
 2. [EDA (Analisis exploratorio de datos)](#EDA (Analisis exploratorio de datos))
 3. [Modelo de aprendizaje automático)](#Modelo_de_aprendizaje_automatico))
-4. [## Instalación y Requisitos](#Instalación_y_Requisitos)
+4. [Instalación y Requisitos](#Instalación_y_Requisitos)
 5. [Estructura del Proyecto](#Estructura_del_Proyecto)
 6. [Resultados y Conclusiones](#resultados-y-conclusiones)
 
